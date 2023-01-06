@@ -14,7 +14,7 @@ plugin_package = "octoprint_fanspeedslider"
 plugin_name = "OctoPrint-FanSpeedSlider"
 
 # The plugin's version. Can be overwritten within OctoPrint's internal data via __plugin_version__ in the plugin module
-plugin_version = "0.2.1"
+plugin_version = "0.2.2"
 
 # The plugin's description. Can be overwritten within OctoPrint's internal data via __plugin_description__ in the plugin
 # module
@@ -27,7 +27,7 @@ plugin_author = "ntoff"
 plugin_author_email = ""
 
 # The plugin's homepage URL. Can be overwritten within OctoPrint's internal data via __plugin_url__ in the plugin module
-plugin_url = "https://github.com/ntoff/OctoPrint-FanSpeedSlider"
+plugin_url = "https://github.com/DimchikUA/OctoPrint-FanSpeedSlider"
 
 # The plugin's license. Can be overwritten within OctoPrint's internal data via __plugin_license__ in the plugin module
 plugin_license = "AGPLv3"
