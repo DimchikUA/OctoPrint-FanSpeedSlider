@@ -121,12 +121,12 @@ class FanSliderPlugin(octoprint.plugin.StartupPlugin,
 
 				# version check: github repository
 				type="github_release",
-				user="ntoff",
+				user="DimchikUA",
 				repo="OctoPrint-FanSpeedSlider",
 				current=self._plugin_version,
 
 				# update method: pip
-				pip="https://github.com/ntoff/OctoPrint-FanSpeedSlider/archive/{target_version}.zip"
+				pip="https://github.com/DimchikUA/OctoPrint-FanSpeedSlider/archive/{target_version}.zip"
 			)
 		)
 
